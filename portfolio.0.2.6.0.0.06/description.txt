@@ -1,0 +1,33 @@
+Video Editing & 3D Studio Landing Page Template
+
+
+A dark, futuristic landing page template for a premier video editing and 3D rendering studio, perfect for showcasing portfolios, services, team, and client testimonials.
+
+Streax Studios Landing Page Template is a dark, futuristic one-page site for video editing and 3D rendering studios.
+
+Highlights
+Hero "Nexus" section with glitch headline, system status, and bold CTA
+Core protocols/USPs using animated vertical accordion panels
+Manifest/about area with journey story and performance stats
+Archive portfolio with horizontal scroll and 3D flip case-study cards
+Evidence/testimonials in floating glassmorphism panels
+Team & contact/CTA block with avatars, email, phone, and neon primary button
+Use Cases
+Branded homepage for video, CGI, or motion studios
+Web3-focused creative or production agency site
+High-impact portfolio microsite for freelancers or small teams
+Built with Tailwind CSS and immersive animations, this template helps studios present capabilities, work, and trust signals in a cinematic, on-brand experience.
+
+
+Tags:
+
+Landing Page
+Services
+Technology
+Brand
+Portfolio
+Dark
+Futuristic
+Gradient
+Large Type
+Animated
