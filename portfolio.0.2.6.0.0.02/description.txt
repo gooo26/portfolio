@@ -1,0 +1,36 @@
+Luxury Wedding Films Landing Page Template
+
+A refined, cinematic wedding films & photography landing page template for premium studios to showcase portfolios, services, and capture high-intent inquiries.
+
+Luxury Wedding Films Landing Page Template
+
+A cinematic, German-language landing page template crafted for high-end wedding film and photo studios.
+
+What’s Included
+Hero with fullscreen slideshow and poetic tagline
+Brand intro and editorial-style featured work grid
+Services list with micro-interactions and primary CTA
+5-step process timeline and testimonial section
+About block, social links, and detailed contact form
+Key Features
+Cinematic, editorial visual style with serif/sans pairing
+Portfolio-ready grid for weddings, brands, and events
+Conversion-focused CTAs and inquiry form flow
+Responsive TailwindCSS layout optimized for mobile
+Story-driven copy structure tailored to premium clients
+Primary Use Case
+Perfect for filmmakers, photographers, and boutique studios who want a ready-to-customize template to present luxury wedding services and convert visitors into inquiries.
+
+
+Tags:
+
+Landing Page
+Services
+Wedding
+Brand
+Art & Design
+Portfolio
+Clean
+Minimal
+Large Type
+Gradient
