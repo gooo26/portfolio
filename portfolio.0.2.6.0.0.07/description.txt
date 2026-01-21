@@ -1,0 +1,16 @@
+Ramond Holdings Real Estate Portfolio Template
+
+A reusable landing page template designed for showcasing high-end real estate assets, architectural portfolios, and strategic investment ventures.
+
+Tags:
+
+Landing Page
+Portfolio
+Real Estate
+Architecture
+Investments
+Ventures
+Interiors
+Horizontal Scroll
+Sticky Sidebar
+Analytics
