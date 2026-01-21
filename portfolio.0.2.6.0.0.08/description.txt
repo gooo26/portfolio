@@ -1,0 +1,18 @@
+Model Portfolio Landing Page Template
+
+
+A reusable landing page template designed for models to showcase portfolios, measurements, and booking availability with elegant visuals.
+
+
+Tags:
+
+Landing Page
+Portfolio
+Model
+Photography
+Booking
+Contact Form
+Testimonials
+Gallery
+Responsive
+Tailwind CSS
