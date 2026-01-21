@@ -1,0 +1,30 @@
+Real Estate Investment Portfolio Website Template
+
+A premium dark-mode website template for real estate investment and holdings firms to showcase portfolios, interiors, ventures, and performance metrics.
+
+Ramond Holdings is a high-end real estate investment website template designed for firms that blend architecture, finance, and global portfolios.
+
+Features
+Hero and marquee highlighting brand story, global cities, and legacy positioning
+Sticky portfolio layout for residential, commercial, and industrial flagship projects
+Horizontal interiors gallery to showcase premium interior design and amenities
+Ventures section with scrollable cards for funds, REITs, and strategic initiatives
+Stats and bento grid for AUM, years active, board highlight, and thought leadership
+Elegant footer with enquiry CTA, sitemap, social links, and legal
+Use cases
+Real estate investment and development firms presenting a global portfolio
+Family offices and property funds needing a sophisticated digital presence
+Architecture-led investment brands showcasing projects and ventures to investors.
+
+Tags:
+
+Landing Page
+Real Estate
+Brand
+Portfolio
+Dark
+Minimal
+Large Type
+Grid
+Technology
+Services
